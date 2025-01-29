@@ -1,32 +1,44 @@
 @charset "UTF-8";
 
+:root {
+    --fonte1: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte2: 'Passion One', cursive;
+    --fonte3: 'Sriracha', cursive;
+}
+
+
 * {
     margin: 0;
     padding: 0;
+    font-size: 1em;
 }
+
+
 
 html, bady {
     min-height: 100vh;
-    background-color: darkgrey;
+    background-color: #c0baba;
+    font-family: var(--fonte1);
 }
 
 
+
 header {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
     text-align: center;
 }
 header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
+    font-family: var(--fonte2);
+    font-size: 10vw;
 }
-
-
 header > p {
     padding-bottom: 50px;
 }
 header a, footer a {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bolder;
 } 
@@ -35,33 +47,33 @@ header a:houver, footer a:houver {
 }
 
 
+
 section {
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    font-family: var(--fonte3);
+    font-size: 3.5vw;
 }
-
 section.normal {
-    background-color: white;
-    color: black;
+    background-color: #ffffff;
+    color: #000000;
 }
- 
 select.imagem {
-    background-color: rgb(87, 82, 82);
-    color: white;
+    color: #ffffff;
 } 
-
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color: #00000083;
+    background-color: #63616183;
 }
 
 
+
 footer {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 10px;
 }

@@ -5,9 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Iframe</title>
     <style>
+         body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        iframe {
+            width: 97vw;
+            height: 510px;
+            border: 2px solid black;
+        }
+    </style>
     </style>
 </head>
 <body>
     <h1>Escolha uma opção abaixo</h1>
+    <ul>
+        <li><a href="../ex023/tabela006.html" target="gostoso">Clique aqui para acessar a TABELA 6</a></li>
+        <li><a href="extras/pag001.html" target="gostoso">Clique aqui para acessar a PÁGINA 1</a></li>
+        <li><a href="extras/pag002.html" target="gostoso">Clique aqui para acessar a PÁGINA 2</a></li>
+    </ul>
+    
+
+    <p>
+        <iframe src="iframe001.html" frameborder="" name="gostoso">
+            <p>Seu navegador não é compativel com iframe</p>
+        </iframe>
+    </p>
 </body>
 </html>

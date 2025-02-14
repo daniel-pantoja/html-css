@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário</title>
+</head>
+<body>
+  <h1>Formulário</h1>
+  <form action="cadastro.php" method="post" autocomplete="on">
+    <p>
+      <label for="coco">Cor: </label>
+      <input type="color" name="cor" id="coco" value="#ffffff">
+     </p>
+
+    <p>
+      <label for="nini">Nível de Satisfação: </label>
+      <input type="radio" name="nivel" id="nini" min="1" max="5" value="2">
+    </p>
+
+    <p>
+      <label for="fofo">Escolha uma foto</label>
+      <input type="file" name="foto" id="fofo">
+    </p>
+
+    <p>
+      <input type="submit" value="Enviar">
+      <input type="reset" value="Apagar">
+    </p>
+  </form>
+</body>
+</html>

@@ -6,7 +6,7 @@
 <h2> Este foi o aprendizado no Curso de HTML5 e CSS3 do Básico ao Avançado </h2>
 <p> Estudos sobre programação HTML5 e CSS3. </p>
 
-Este repositório contém o material e exercícios do **Curso de HTML5 e CSS3** do Curso em Vídeo, ministrado pelo renomado professor Guanabara. Este curso oferece uma introdução abrangente ao desenvolvimento web, cobrindo desde os conceitos fundamentais de HTML e CSS até técnicas avançadas.
+Este repositório contém o material e exercícios do **Curso de HTML5 e CSS3**. Este curso oferece uma introdução abrangente ao desenvolvimento web, cobrindo desde os conceitos fundamentais de HTML e CSS até técnicas avançadas.
 
 ## Introdução
 Este curso abrange os fundamentos de HTML5 e CSS3, proporcionando uma base sólida para o desenvolvimento web.
@@ -14,10 +14,13 @@ Este curso abrange os fundamentos de HTML5 e CSS3, proporcionando uma base sóli
 ## Tecnologias Utilizadas
 * HTML5
 * CSS3
+* JavaScript
 
 ## Ferramentas
-* Editor de texto (ex: Visual Studio Code, Sublime Text)
-* Navegador web (ex: Chrome, Firefox)
+* Visual Studio Code
+* Navegador web (Chrome, Firefox)
+* GitHub
+* Git
 
 ## Conceitos nos Primeiros Passos
 * Estrutura de um documento HTML

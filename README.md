@@ -41,6 +41,13 @@ Quando comecei a aprender HTML e CSS, percebi que há uma vasta gama de conceito
 
 O repositório inclui diversos exercícios e projetos práticos para reforçar o aprendizado. Os exercícios e desafios estão organizados em pastas conforme os módulos do curso.
 
+* **Acesse todos os exercícios aqui**: [exercicios](https://github.com/daniel-pantoja/html-css/tree/main/exerc%C3%ADcios "Link Para os Exercícios")
+
+* Alguns desafios (projetos) aqui:
+  - **Projeto Android**: O projeto "Como surgiu o mascote do Android?" detalhes da criação do mascote Bugdroid, desenvolvido inicialmente por Dan Morrill em 2007 e posteriormente aprimorado pela ilustrada Irina Blok. O design do mascote foi inspirado em ícones simples, como os de portas de banheiro. O site também menciona a tradição de nomear as versões do Android com nomes de doces, que foi encerrada com o Android 10. O objetivo é compartilhar curiosidades sobre a história do Android e seu mascote. [acesse aqui](https://daniel-pantoja.github.io/projeto-android/ "Link Projeto Android").
+  - **Projeto Cordel Mordeno**: O projeto "Cordel Moderno" de Milton Duarte é um poema que critica a superficialidade da comunicação digital e expressa saudade das cartas manuais. O autor aborda a dependência da tecnologia nas interações, destacando que a oração permanece uma conexão não mediada pela internet. O site compartilha essa reflexão sobre a comunicação moderna. [acesse aqui](https://daniel-pantoja.github.io/html-css/desafios/d012/index.html "Link Projeto Cordel").
+  - **Projeto Social**: O projeto "Redes Sociais" explora o impacto e a importância das redes sociais na sociedade contemporânea. O site aborda como essas plataformas influenciam a comunicação, as interações sociais e a disseminação de informações. Além disso, discute os efeitos positivos e negativos do uso das redes sociais, promovendo uma reflexão sobre a sua influência no cotidiano das pessoas. É um espaço dedicado a entender melhor o papel das redes sociais na vida moderna. [acesse aqui](# "Link Projeto Social")
+
 ## Boas Práticas de Programação
 
 * **Código Limpo:** Mantenha o código organizado e legível com boa indentação e espaçamento.

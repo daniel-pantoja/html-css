@@ -11,9 +11,9 @@ HTML (HyperText Markup Language) e CSS (Cascading Style Sheets) são fundamentai
 
 ## Tecnologias Utilizadas
 
-* JavaScript
 * HTML
 * CSS
+* JavaScript
 
 ## Ferramentas
 
@@ -54,7 +54,7 @@ Além dos tópicos já mencionados, há outros conceitos importantes que podem a
 
 * **Flexbox:** Uma técnica de layout que permite distribuir espaço entre os itens de um container de forma eficiente.
 * **Grid Layout:** Um sistema de layout que possibilita criar layouts complexos e responsivos através de um grid bidimensional.
-* **Media Queries:** Uma funcionalidade do CSS que permite aplicar estilos diferentes com base nas características do dispositivo, como tamanho da tela.
+* **Media Queries:** Uma funcionalidade do CSS que permite aplicar estilos diferentes com base nas características do dispositivo, como tamanho da tela. [Saiba mais aqui](https://www.w3schools.com/css/css3_mediaqueries_ex.asp "Documentação sobre Media Queries").
 * **Transições e Animações:** Técnicas que tornam a experiência do usuário mais atrativa, permitindo a adição de movimento e efeitos visuais ao seu site.
-* **Web Semântica:** O uso de tags HTML de forma que elas transmitam o significado do conteúdo, melhorando a acessibilidade e SEO.
+* **Web Semântica:** O uso de tags HTML de forma que elas transmitam o significado do conteúdo, melhorando a acessibilidade e SEO.  [Saiba mais sobre Web Semântica](https://www.w3schools.com/html/html5_semantic_elements.asp "Documentação sobre Web Semântica").
 * **Atributos de Acessibilidade:** Como o uso de `alt` em imagens e ARIA para melhorar a experiência de usuários com deficiência.
